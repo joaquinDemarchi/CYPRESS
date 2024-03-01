@@ -1,0 +1,12 @@
+
+
+node_modules/
+downloads
+fixtures
+screenshots
+1-getting-started
+2-advanced-examples
+pruebaBD
+
+*.json
+*.prettierrc
